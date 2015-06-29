@@ -1,0 +1,34 @@
+<resources>
+  <string name="app_name">EEL</string>
+  <string name="options">Settings</string>
+  <string name="optionsButton">Settings</string>
+  <string name="begin">Start</string>
+  <string name="gameover">Game Over</string>
+  <string name="paused">Paused</string>
+  <string name="theme">Theme</string>
+  <string name="controls">Controls</string>
+  <string name="viewMode">View</string>
+  <string name="speed">Difficulty</string>
+  <string name="back">Home</string>
+
+  <string-array name="optionsTheme">
+    <item>Light</item>
+    <item>Dark</item>
+  </string-array>
+
+  <string-array name="optionsControls">
+    <item>Four Direction</item>
+  </string-array>
+
+  <string-array name="optionsView">
+    <item>Modern</item>
+    <item>Classic</item>
+  </string-array>
+
+  <string-array name="optionsDifficulty">
+    <item>Easy</item>
+    <item>Medium</item>
+    <item>Hard</item>
+    <item>Extreme</item>
+  </string-array>
+</resources>

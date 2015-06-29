@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:1:1
+	xmlns:tools
+		ADDED from AndroidManifest.xml:2:11
+	xmlns:android
+		ADDED from AndroidManifest.xml:1:11
+	package
+		ADDED from AndroidManifest.xml:3:11
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:3
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:3
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:8:3
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:8:39
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:13
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	tools:ignore
+		ADDED from AndroidManifest.xml:9:13
+application
+ADDED from AndroidManifest.xml:11:3
+	android:label
+		ADDED from AndroidManifest.xml:11:16
+	android:icon
+		ADDED from AndroidManifest.xml:12:5
+	android:theme
+		ADDED from AndroidManifest.xml:13:5
+	android:backupAgent
+		ADDED from AndroidManifest.xml:14:5
+	tools:ignore
+		ADDED from AndroidManifest.xml:15:5
+activity#com.nickeyre.snake.TitleScreen
+ADDED from AndroidManifest.xml:17:5
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:19:7
+	android:configChanges
+		ADDED from AndroidManifest.xml:20:7
+	android:name
+		ADDED from AndroidManifest.xml:18:7
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:21:7
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:22:9
+	android:name
+		ADDED from AndroidManifest.xml:22:17
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:23:9
+	android:name
+		ADDED from AndroidManifest.xml:23:19
+activity#com.nickeyre.snake.GameScreen
+ADDED from AndroidManifest.xml:28:5
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:30:7
+	android:label
+		ADDED from AndroidManifest.xml:28:15
+	android:configChanges
+		ADDED from AndroidManifest.xml:31:7
+	android:name
+		ADDED from AndroidManifest.xml:29:7
+activity#com.nickeyre.snake.OptionsScreen
+ADDED from AndroidManifest.xml:35:5
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:37:7
+	android:label
+		ADDED from AndroidManifest.xml:35:15
+	android:configChanges
+		ADDED from AndroidManifest.xml:38:7
+	android:name
+		ADDED from AndroidManifest.xml:36:7
+meta-data#com.google.android.backup.api_key
+ADDED from AndroidManifest.xml:41:5
+	android:name
+		ADDED from AndroidManifest.xml:41:16
+	android:value
+		ADDED from AndroidManifest.xml:41:65
